@@ -1,0 +1,12 @@
+/*/////// MEDIA ////////*/  /*To make image and video the same size as the container*/
+
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*/////// LAYOUT STYLES ////////*/  /**/
+
+.row {
+	margin-bottom: 20px;
+}
